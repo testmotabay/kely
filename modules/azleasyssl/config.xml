@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>azleasyssl</name>
+	<displayName><![CDATA[Free SSL certificate by Let&#039;s Encrypt]]></displayName>
+	<version><![CDATA[1.3.4]]></version>
+	<description><![CDATA[Install SSL certificate in one click.]]></description>
+	<author><![CDATA[Azelab]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to delete all data?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

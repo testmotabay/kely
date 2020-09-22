@@ -1,0 +1,42 @@
+/**
+ * 2015-2020 AdScale LTD
+ *
+ * @author    AdScale LTD <support@adscale.com>
+ * @copyright 2015-2020 AdScale LTD
+ * @license  according to AdScale license terms & conditions - https://ecom.adscale.com/pricing/
+ */
+
+/* for PrestaShop v 1.7*/
+
+[data-name="AdScale"][data-type="module"] .module-actions button.dropdown-item[class*="module_action_menu_"],
+[data-name="AdScale"][data-type="module"] .form-action-button-container button.dropdown-item[class*="module_action_menu_"]
+{
+	display: none;
+}
+
+[data-name="AdScale"][data-type="module"] .module-actions button.dropdown-item[class*="module_action_menu_uninstall"],
+[data-name="AdScale"][data-type="module"] .form-action-button-container button.dropdown-item[class*="module_action_menu_uninstall"],
+[data-name="AdScale"][data-type="module"] .module-actions button.dropdown-item[class*="module_action_menu_configure"],
+[data-name="AdScale"][data-type="module"] .form-action-button-container button.dropdown-item[class*="module_action_menu_configure"]
+{
+	display: block;
+}
+
+/* for PrestaShop v 1.6*/
+#module-list .actions a[href*="module_name=adscale"] {
+	display: none;
+}
+
+#module-list .actions a[href*="module_name=adscale"][href*="configure=adscale"], 
+#module-list .actions a[href*="module_name=adscale"][href*="uninstall=adscale"], 
+#module-list .actions a[href*="module_name=adscale"][href*="delete=adscale"] 
+{
+	display: block;
+}
+
+#module-list .actions a.btn[href*="module_name=adscale"][href*="configure=adscale"], 
+#module-list .actions a.btn[href*="module_name=adscale"][href*="uninstall=adscale"], 
+#module-list .actions a.btn[href*="module_name=adscale"][href*="delete=adscale"] 
+{
+	display: inline-block;
+}

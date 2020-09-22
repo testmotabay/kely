@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>adscale</name>
+	<displayName><![CDATA[AdScale]]></displayName>
+	<version><![CDATA[1.3.4]]></version>
+	<description><![CDATA[AdScale module allows you to automate Ecommerce advertising across all channels.]]></description>
+	<author><![CDATA[AdScale]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall AdScale Module ?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

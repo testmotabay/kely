@@ -1,0 +1,262 @@
+body,table,div,html {margin:0px; padding:0px; font-family:arial; font-size:12px;}
+.header {background:url('../img/header.gif') ; width:810px; height:200px; display:block; clear:both; margin:auto;}
+
+
+h2 {
+	display:block;
+	margin:0px;
+	margin-bottom:15px;
+	padding:0px;
+	font-size:18px;
+	font-family:arial;
+	color:#c0c0c0;
+	line-height:20px;
+	clear:both;
+}
+
+.product {
+	margin:0px; 
+	padding:0px; 
+	margin-bottom:15px; 
+	display:inline-block; 
+	width:189px;  
+	border:1px solid #DEDEDE; 
+	position:relative;
+}
+
+.radius5{
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+}
+
+.radius5top {
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-top-left-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-topleft: 5px;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+.pname {
+	overflow:hidden; 
+	clear:both; 
+	height:50px;
+	padding:0px 10px; 
+	color: rgb(107, 107, 107);
+	margin-top:5px; 
+	margin-bottom:10px; 
+	font-size:14px; 
+	text-align:center;
+	background:#f9f9f9;
+	vertical-align:middle;
+	display:table-cell;
+	width:189px;
+	text-shadow:1px 1px 0px #FFF;
+	box-shadow:inset 0px 1px 1px #FFF;
+	-moz-box-shadow:inset 0px 1px 1px #FFF;
+}
+
+#menu { list-style:none; margin:0px; padding:0px; background:url('../img/consolewizard/bgmenu.gif') top repeat-x; }
+#menu li {display:inline-block; padding:10px 0px; cursor:pointer; color:#858585; font-weight:bold; text-shadow:1px 1px 0px #FFF; font-size:14px;}
+#menu li:hover {background:#000; color:#FFF; text-shadow:none;}
+#menu li span {padding:0px 10px;}
+#menu ul.subcategories li div.button {padding:2px 4px; cursor:pointer; text-shadow:none; color:#FFF; text-shadow:none;}
+#menu ul.subcategories li div.button:hover {background:#000; color:#FFF;}
+#menu ul.subcategories {text-shadow:1px 1px 0px #3b5998; margin:0px; padding:2px 5px; list-style: none; display:none; position:absolute; top:35px; background:#000; z-index:999;}
+#menu ul.subcategories li {margin:0px; display:block; padding:0px; cursor:pointer;}
+#menu ul.subcategories li div.level2 {padding-left:10px; padding-right:30px;}
+#menu ul.subcategories li div.level3 {padding-left:20px; padding-right:30px;}
+#menu ul.subcategories li div.level4 {padding-left:30px; padding-right:30px;}
+#menu ul.subcategories li div.level5 {padding-left:40px; padding-right:30px;}
+#menu ul.subcategories li div.level6 {padding-left:50px; padding-right:30px;}
+#menu ul.subcategories li div.level7 {padding-left:60px; padding-right:30px;}
+#menu ul.subcategories li div.level8 {padding-left:70px; padding-right:30px;}
+#menu ul.subcategories li div.level9 {padding-left:80px; padding-right:30px;}
+#menu ul.subcategories li div.level10 {padding-left:90px; padding-right:30px;}
+#menu ul.subcategories li div.level11 {padding-left:100px; padding-right:30px;}
+
+#menu ul.subcategories2 h2 {color:#FFF; text-shadow: none;}
+#menu ul.subcategories2 li {
+	display:inline-block; 
+	position:relative;
+	margin:5px; 
+	padding:5px; 
+	cursor:pointer; 
+	width:178px;
+	vertical-align:top;
+	background:#000;
+	border: 1px solid #000;
+	-moz-border-radius:5px; 
+	-webkit-border-radius:5px; 
+	border-radius:5px;	
+}
+
+#menu ul.subcategories2 li div.button {padding:2px 4px; cursor:pointer; }
+#menu ul.subcategories2 li div.button:hover {background:#000;}
+#menu ul.subcategories2 {
+	left:0px; 
+	width:100%; 
+	margin:0px; 
+	padding:0px; 
+	list-style: none; 
+	display:none; 
+	position:absolute; 
+	top:35px; 
+	background:#000;
+	z-index:999; 
+	vertical-align:top; 
+	-moz-border-radius:5px; 
+	-webkit-border-radius:5px; 
+	border-radius:5px;
+	vertical-align:top;
+	overflow:visible;
+}
+	
+#menu ul.subcategories2 .subcategories2div {padding:2px 5px; display:block; clear:both;}
+#menu ul.subcategories2 li div.level2 {padding-left:10px; padding-right:30px;}
+#menu ul.subcategories2 li div.level3 {padding-left:20px; padding-right:30px;}
+#menu ul.subcategories2 li div.level4 {padding-left:30px; padding-right:30px;}
+#menu ul.subcategories2 li div.level5 {padding-left:40px; padding-right:30px;}
+#menu ul.subcategories2 li div.level6 {padding-left:50px; padding-right:30px;}
+#menu ul.subcategories2 li div.level7 {padding-left:60px; padding-right:30px;}
+#menu ul.subcategories2 li div.level8 {padding-left:70px; padding-right:30px;}
+#menu ul.subcategories2 li div.level9 {padding-left:80px; padding-right:30px;}
+#menu ul.subcategories2 li div.level10 {padding-left:90px; padding-right:30px;}
+#menu ul.subcategories2 li div.level11 {padding-left:100px; padding-right:30px;}
+
+ul.subcategories2 li div.button {color:#FFF; text-shadow:none;}
+.container {
+	position:relative;
+	display:block;
+	width:810px;
+	margin:auto;
+}
+
+#pg {position:absolute; top:0px; left:0px; display:none;  clear:both; z-index:9999; width:810px; background:#FFF;}
+#pg_header {padding:10px; background:url('../img/consolewizard/header-bg.gif');}
+#pg_header img {cursor:pointer;}
+#pg_body {padding:0px 10px;}
+#pg_body .loader {padding-top:20px;}
+
+#contentload {position:relative; width:810px; margin:auto;}
+#contentload_loader {padding:30px; background:#5372b0; -moz-border-radius:40px; -webkit-border-radius:40px; border-radius:40px; position:absolute; top:50px; z-index:10; display:none; margin-left:350px;}
+
+
+/** PAGINATION **/
+
+#pagination {list-style:none; padding:0px; margin:0px; float:right;}
+#pagination li {display:inline-block; border:1px solid #D8DEEA; background:#F9F9F9; margin-left:5px; text-align:center; -moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px;}
+#pagination li a {text-decoration:none; padding:5px 10px; display:inline-block; color:#9E9596;}
+#pagination li.selected {background:#5372b0; color:#FFF; border:1px solid #2E2E76;}
+
+#pagination li.selected a {
+	color:#FFF;
+}
+
+#footer {
+	font-size:11px; 
+	color:#c0c0c0; 
+	margin:auto; 
+	width:810px; 
+	margin-top:10px; 
+	border-top:1px solid #e5e5e5; 
+	display:block; 
+	text-align:right;
+	height:100px;
+	background:url('../img/footer.gif') top no-repeat;
+	margin-bottom:10px;
+	position:relative;
+}
+
+
+
+
+.fbutton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6) );
+	background:-moz-linear-gradient( center top, #ffffff 5%, #f6f6f6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6');
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #a1a1a1;
+	display:inline-block;
+	color:#666666;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #ffffff;
+	position:absolute;
+	top:35px;
+	right:50px;
+}
+
+
+/** SLIDER **/
+
+.nivoSlider {
+	position:relative;
+}
+.nivoSlider img {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+/* If an image is wrapped in a link */
+.nivoSlider a.nivo-imageLink {
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	border:0;
+	padding:0;
+	margin:0;
+	z-index:6;
+	display:none;
+}
+/* The slices and boxes in the Slider */
+.nivo-slice {
+	display:block;
+	position:absolute;
+	z-index:2;
+	height:100%;
+}
+.nivo-box {
+	display:block;
+	position:absolute;
+	z-index:5;
+}
+
+
+/* Direction nav styles (e.g. Next & Prev) */
+.nivo-directionNav a {
+	position:absolute;
+	top:45%;
+	z-index:9;
+	cursor:pointer;
+}
+
+
+
+.theme-default #slider {
+    margin:0px auto 0 auto;
+    width:520px; /* Make sure your images are the same size */
+    height:180px; /* Make sure your images are the same size */
+}
+
+
+/* Direction nav styles (e.g. Next & Prev) */
+.nivo-directionNav a {
+	position:absolute;
+	top:40%;
+	z-index:9;
+	cursor:pointer;
+}

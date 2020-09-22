@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/en/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/en/blog/feed.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>What is an ecommerce payment gateway?</title>
+    <link>https://www.prestashop.com/en/blog/ecommerce-payment-gateway</link>
+    <description>If you want your website to accept payments, you need a payment gateway.</description>
+     <pubDate>Mon, 14 Sep 2020 18:03:57 +0200</pubDate>
+ <dc:creator>Arina Drucioc EN</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/ecommerce-payment-gateway</guid>
+  </item>
+  <item>
+    <title>Extend and develop your customer relationship after purchase</title>
+    <link>https://www.prestashop.com/en/blog/customer-relationship-after-purchase</link>
+    <description>Thank your customer for purchasing your products with a personalized note to surprise them. This way you develop a true, long lasting and loyal customer relationship. </description>
+     <pubDate>Thu, 10 Sep 2020 18:44:17 +0200</pubDate>
+ <dc:creator>Romain De Vera EN</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/customer-relationship-after-purchase</guid>
+  </item>
+  <item>
+    <title>Getting your email marketing ready for the end-of-year sales</title>
+    <link>https://www.prestashop.com/en/blog/email-marketing-holiday</link>
+    <description>Learn how to make the most out of sales events like Black Friday and Cyber Monday by preparing your email marketing beforehand. </description>
+     <pubDate>Wed, 09 Sep 2020 15:17:14 +0200</pubDate>
+ <dc:creator>Aaron Wiseman</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/email-marketing-holiday</guid>
+  </item>
+  <item>
+    <title>Vulnerability identified on a few PrestaShop modules and themes</title>
+    <link>https://www.prestashop.com/en/blog/vulnerability-september-2020</link>
+    <description>An attack against a few PrestaShop stores was reported to us.</description>
+     <pubDate>Wed, 09 Sep 2020 15:16:51 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/vulnerability-september-2020</guid>
+  </item>
+  <item>
+    <title>Subscribers and loyal customers: a combination that makes consumers and retailers happy</title>
+    <link>https://www.prestashop.com/en/blog/subscription-loyalty-retailers</link>
+    <description>We have already discussed the issue of the strong digitisation trend in our country in several blog articles.</description>
+     <pubDate>Fri, 28 Aug 2020 14:39:42 +0200</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/subscription-loyalty-retailers</guid>
+  </item>
+  <item>
+    <title>Seven best practices in after-sales management</title>
+    <link>https://www.prestashop.com/en/blog/best-practices-after-sales</link>
+    <description>How do you manage your customers once they made a purchase? Here are the 7 things to do to improve the shopping experience and optimise retention.</description>
+     <pubDate>Fri, 28 Aug 2020 14:36:01 +0200</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/best-practices-after-sales</guid>
+  </item>
+  <item>
+    <title>E-Commerce Data driven strategy: how to increase sales by analyzing data</title>
+    <link>https://www.prestashop.com/en/blog/strategy-analysing-data</link>
+    <description>Do you want to improve the performance of your e-commerce? Discover how to set up a data driven optimization strategy</description>
+     <pubDate>Fri, 28 Aug 2020 14:31:27 +0200</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/strategy-analysing-data</guid>
+  </item>
+  <item>
+    <title>E-commerce: The KPIs you should monitor</title>
+    <link>https://www.prestashop.com/en/blog/e-commerce-kpis-monitor</link>
+    <description>Data is the most valuable source of information to help you maximise your e-commerce conversions.</description>
+     <pubDate>Mon, 17 Aug 2020 17:56:28 +0200</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/e-commerce-kpis-monitor</guid>
+  </item>
+  <item>
+    <title>Important stages of a business: why do you have to climb to win?</title>
+    <link>https://www.prestashop.com/en/blog/important-stages-business</link>
+    <description>All businesses have a life cycle. There is the initial phase, where it&#039;s just an idea, a stroke of genius in the mind of an entrepreneur, merely imagination.</description>
+     <pubDate>Mon, 17 Aug 2020 17:50:45 +0200</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/important-stages-business</guid>
+  </item>
+  <item>
+    <title>Five essential modules to prepare for the back-to-school season</title>
+    <link>https://www.prestashop.com/en/blog/modules-back-to-school</link>
+    <description>While summer, sales, and holidays will remain topical for a few more weeks, the September 2020 back-to-school season is </description>
+     <pubDate>Fri, 31 Jul 2020 15:50:12 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/modules-back-to-school</guid>
+  </item>
+  </channel>
+</rss>
